@@ -1,0 +1,59 @@
+h1 {
+    color: white;
+    font-weight: 700;
+    background-color: #011c85;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+h1 span button {
+    background-color: #018562;
+    color: white;
+    border: none;
+    font-size: 0.4em;
+    font-weight: 400;
+}
+
+#MainImg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    background-color: #1d115b;
+}
+
+
+#description {
+    background-color: #2a1497;
+    color: blanchedalmond;
+}
+
+p {
+    margin: 0;
+}
+
+#Ingredients {
+    background-color: #1d115b;
+    color: blanchedalmond;
+}
+
+#Ingredients ul li {
+    display: flex;
+    justify-content: center;
+}
+
+#steps {
+    background-color: #2a1497;
+    color: blanchedalmond;
+
+}
+
+ul,
+ol,
+li {
+    margin: 0px;
+}
