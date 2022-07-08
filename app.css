@@ -1,0 +1,42 @@
+body {
+    padding: 0px;
+    margin: 0;
+    background-color: #011c85;
+}
+
+.content {
+    margin-bottom: 50px;
+}
+
+h1 {
+    background-color: #050173;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    border: 2px solid black;
+    background-color: #018562;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+#lasaim {
+    width: 800px;
+    height: 200px;
+}
+
+#Pasta_img {
+    width: 800px;
+    height: 200px;
+}
+
+#Kabsa {
+    width: 800px;
+    height: 200px;
+}
+
+#CK_BG {
+    width: 800px;
+    height: 200px;
+}
